@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#sms spammer by wazehell fb.com/wazehell || githup.com/wazehell
+#by wazehell fb.com/wazehell || githup.com/wazehell
 import requests
 logo = """ 
  __       __                                __    __            __  __ 
@@ -12,7 +12,7 @@ $$$$/  $$$$ |/$$$$$$$ | /$$$$/__ $$$$$$$$/ $$ |  $$ |$$$$$$$$/ $$ |$$ |
 $$$/    $$$ |$$    $$ |/$$      |$$       |$$ |  $$ |$$       |$$ |$$ |
 $$/      $$/  $$$$$$$/ $$$$$$$$/  $$$$$$$/ $$/   $$/  $$$$$$$/ $$/ $$/ 
                                                                        
-                          SMS Spammer
+                         Egyptian SMS Spammer
 fb.com/WazeHell , @wazehell
 """
 print(logo)
